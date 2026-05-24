@@ -2,8 +2,7 @@
 
 **Aluno:** Fabiano Rodrigo Costa  
 **Curso:** Introdução ao Data Science (IP 20h A)  
-**Programa:** Carreira Tech — SCTEC / SENAI / FAPESC / ACATE — Ciclo 2  
-**Data:** 2026-05-17  
+**Programa:** Carreira Tech — SCTEC / SENAI / FAPESC / ACATE — Ciclo 2   
 **Dataset:** Sample Superstore (Kaggle)  
 **Repositório:** [github.com/fabcosta-br/desafio-extra-data-science](https://github.com/fabcosta-br/desafio-extra-data-science)
 
